@@ -16,14 +16,8 @@ public class Main {
      * function before accepting input from Scanner object.
      */
     private static void solve(int t1) {
-        if (scan.hasNext()) {
-            int n = scan.nextInt();
-            int[] arr = new int[n];
-            for (int i = 0; i < n; i++) {
-                arr[i] = scan.nextInt();
-            }
-            System.out.println(Arrays.toString(arr));
-        }
+        System.out.println(t1);
+
     }
 
     public static void main(String[] args) throws FileNotFoundException {
@@ -31,8 +25,8 @@ public class Main {
         print = new PrintStream(op);
         System.setOut(print);
 
-        int t = scan.nextInt(), t1 = 0;
-        scan.nextLine();
+        int t = scan.nextInt(), t1 = 1;
+        // scan.nextLine();
         while (t1 <= t) {
             solve(t1);
             t1++;

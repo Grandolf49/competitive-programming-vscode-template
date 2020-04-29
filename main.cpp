@@ -13,6 +13,7 @@ typedef pair<string, string> pss;
 void solve(ll test_case)
 {
     // Do your thing here :)
+    cout << test_case << "\n";
 }
 
 int main()
