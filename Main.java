@@ -1,7 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -17,7 +16,6 @@ public class Main {
      */
     private static void solve(int t1) {
         System.out.println(t1);
-
     }
 
     public static void main(String[] args) throws FileNotFoundException {
