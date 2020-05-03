@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define FOR(i, j, k, in) for (int i=j ; i<k ; i+=in)
-#define RFOR(i, j, k, in) for (int i=j ; i>=k ; i-=in)
+#define FOR(i, j, k, in) for (int i = j; i < k; i += in)
+#define RFOR(i, j, k, in) for (int i = j; i >= k; i -= in)
 #define REP(i, j) FOR(i, 0, j, 1)
 #define RREP(i, j) RFOR(i, j, 0, 1)
 
@@ -21,6 +21,18 @@ typedef pair<int, int> pii;
 typedef pair<ll, ll> pll;
 typedef pair<string, string> pss;
 typedef map<int, int> mii;
+
+/**
+ * Limits in C++ for reference
+ * _____________________________________________________________________________________
+ * |Sr| Macro Name | Description                     | Value
+ * |No|____________|_________________________________|__________________________________
+ * |1.| ULLONG_MAX | Maximum value unsigned long long| 18,446,744,073,709,551,615 (10^20)
+ * |2.| LLONG_MAX  | Maximum value long long         | 9,223,372,036,854,775,807 (10^19)
+ * |3.| LLONG_MIN  | Minimum value long long         |-9,223,372,036,854,775,808 -1*(10^19)
+ * |4.| INT_MAX    | Maximum value int               | 2,147,483,647 (10^10)
+ * |5.| INT_MIN    | Minimum value int               |-2,147,483,648 (10^10)
+*/
 
 void solve(ll test_case)
 {
