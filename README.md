@@ -1,5 +1,5 @@
 # Competitive Programming Template for [VS Code](https://code.visualstudio.com/)
-A Competitive Programming setup for C++, Java, Python languages on Visual Studio Code. After spending 5-7 days trying to setup Visual Studio Code for Competitive Programming, I have come up with this template for competitive coding.
+A Competitive Programming setup for C++, Java, Python languages on Visual Studio Code. I have written a detailed **[Medium Article](https://medium.com/@chinmaykulkarni8/how-to-setup-visual-studio-code-for-c-c-java-python-competitive-programming-angular-22fdc9b1f4c6?sk=ba78631b9b56823fb375e967453c04e7)** on how to setup VS Code for Competitive Programming. Do check it out!
 
 ## Preview
 ![preview](https://github.com/Grandolf49/competitive-programming-vscode-template/blob/master/preview.png)
