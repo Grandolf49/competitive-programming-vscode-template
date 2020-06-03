@@ -21,6 +21,8 @@ typedef pair<int, int> pii;
 typedef pair<ll, ll> pll;
 typedef pair<string, string> pss;
 typedef map<int, int> mii;
+typedef unordered_map<int, int> umap_ii;
+typedef unordered_map<string, int> umap_si;
 
 /**
  * Limits in C++ for reference
