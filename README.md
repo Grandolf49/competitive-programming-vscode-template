@@ -5,12 +5,12 @@ A Competitive Programming setup for C++, Java, Python languages on Visual Studio
 ![preview](https://github.com/Grandolf49/competitive-programming-vscode-template/blob/master/preview.png)
 
 ## How to use
-1. Clone the repository
+1. Clone the repository.
 2. Open the folder in **Visual Studio Code**
-3. Choose the language of your choice
+3. Choose the language of your choice.
 4. Add the input to **input.txt** file.
 5. Run the code!
-6. Output will be generated in **output.txt** file
+6. Output will be generated in **output.txt** file.
 
 ## Points to remember
 1. All the three files **main.cpp**, **Main.java**, **main.py** contain a template code which first accepts the number of testcases and calls a function **solve()** where you can write your code.
@@ -23,8 +23,8 @@ All contributions are welcomed through issue tracker and pull requests.
 - If you can add language templates for other languages, do contribute!
 
 To contribute follow the steps below:
-1. Fork the repository
-2. Commit the changes to your forked repository
+1. Fork the repository.
+2. Commit the changes to your forked repository.
 3. Create a PR to master branch of this repository.
 
 ### Happy Coding!
